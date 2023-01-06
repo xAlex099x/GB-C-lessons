@@ -2,6 +2,6 @@
 
 ## Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее
 
-[Код](C# course/lection001/Exp001/Program.cs)
+[Код] (C# course/lection001/Exp001/Program.cs)
 
-[Блок-схема](C# course/lection001/Exp001/diagram.drawio.png)
+[Блок-схема] (C# course/lection001/Exp001/diagram.drawio.png)
