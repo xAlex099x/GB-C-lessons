@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.AssemblyInfo.cs
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# course\lection002\Exp001\bin\Debug\net6.0\Exp001.exe
+C:\Users\user\Desktop\C# course\lection002\Exp001\bin\Debug\net6.0\Exp001.deps.json
+C:\Users\user\Desktop\C# course\lection002\Exp001\bin\Debug\net6.0\Exp001.runtimeconfig.json
+C:\Users\user\Desktop\C# course\lection002\Exp001\bin\Debug\net6.0\Exp001.dll
+C:\Users\user\Desktop\C# course\lection002\Exp001\bin\Debug\net6.0\Exp001.pdb
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.dll
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\refint\Exp001.dll
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.pdb
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\Exp001.genruntimeconfig.cache
+C:\Users\user\Desktop\C# course\lection002\Exp001\obj\Debug\net6.0\ref\Exp001.dll
