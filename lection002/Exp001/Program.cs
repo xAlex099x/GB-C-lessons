@@ -1,8 +1,16 @@
 ﻿void secondDigit (int number)
 {
     string s = number.ToString();
-    Console.WriteLine(s[1]);
+    if(s.Length >= 3)
+    {
+        Console.WriteLine(s[1]);
+    }
+    else
+    {
+        Console.WriteLine("Число не должно быть короче 3х символов");
+    }
+    
 }
 
-int number = 192;
+int number = 193124;
 secondDigit(number);
