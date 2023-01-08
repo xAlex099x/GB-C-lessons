@@ -3,6 +3,6 @@
 ## Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел
 
 
-[Код] (lection001\Exp002\Program.cs)
+[Код](../Exp002/Program.cs)
 
-[Блок-схема] (lection001\Exp002\diagram.drawio.png)
+[Блок-схема](../Exp002/diagram.drawio.png)
