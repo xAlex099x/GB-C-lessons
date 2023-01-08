@@ -5,3 +5,4 @@
 [Код] (lection002/Exp003/Program.cs)
 
 [Блок-схема] (../diagram.drawio.png)
+[Код](../lection002/Exp003/Program.cs)
