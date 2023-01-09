@@ -14,5 +14,5 @@ while(index < pow)
 
 
 //2 вариант, через встроенный функционал.
-
+Console.WriteLine("_____________");
 Console.WriteLine(Math. Pow(digit, pow));

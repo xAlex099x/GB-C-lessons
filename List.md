@@ -23,6 +23,7 @@
 [Код](lection001/Exp003/Program.cs)
 
  7. Показать числа от -N до N
+[Код](Non_lection/Exp003/Program.cs)
 
  8. ~~Показать четные числа от 1 до N~~
 [Код](lection001/Exp004/Program.cs)
