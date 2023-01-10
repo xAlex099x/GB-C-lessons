@@ -9,6 +9,6 @@
 }
 
 Console.WriteLine("Введите границу для таблицы кубов: ");
-int n = System.Convert.ToInt32(Console.ReadLine());
+int border = System.Convert.ToInt32(Console.ReadLine());
 
-squareTable(n);
+squareTable(border);
