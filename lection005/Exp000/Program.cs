@@ -43,7 +43,7 @@ while (true)
 
     if (parsResult == true)
     {
-        if (input % 2 != 0 || input < 0)
+        if (input % 2 != 0 || input < 1)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("На ввод допустимы только чётные числа, больше 1.");
