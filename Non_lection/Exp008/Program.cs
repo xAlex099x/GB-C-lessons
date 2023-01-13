@@ -19,5 +19,3 @@ int number = rnd.Next(10, 1000);
 int result = digitCount(number);
 Console.WriteLine(number);
 Console.WriteLine(result);
-
-

@@ -1,15 +1,14 @@
-﻿void itsHoliday(int number)
+﻿void dayInfo (int day)
 {
-    if(number == 6 && number == 7)
+    if (day % 7 > 0 & day % 7 <= 5)
     {
-        Console.WriteLine("Это выходной");
+        Console.WriteLine("Будний день");
     }
     else
     {
-        Console.WriteLine("Это будний день");
+        Console.WriteLine("Выходной");
     }
 }
 
-int number = 3;
-
-itsHoliday(number);
+int day = System.Convert.ToInt32(Console.ReadLine());
+dayInfo(day);

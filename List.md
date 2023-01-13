@@ -77,7 +77,7 @@
     [Код](lection003/Exp002/Program.cs)
 
 24. ~~Найти кубы чисел от 1 до N~~
-    [Код](lection0034/Exp002/Program.cs)
+    [Код](lection003/Exp002/Program.cs)
 
 25. Найти сумму чисел от 1 до А
 

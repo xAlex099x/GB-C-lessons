@@ -39,7 +39,7 @@ void printBinary(int[] array, int result)
 }
 
 
-int[] testArray = newRndBinary(7);
+int[] testArray = newRndBinary(12);
 int number = binaryToDecimal(testArray);
 
 printBinary(testArray, number);
