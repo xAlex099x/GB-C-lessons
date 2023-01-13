@@ -16,9 +16,9 @@ List<int> ProductPairsNumbers(List<int> list)
 {
     List<int> tempList = new List<int>(list.Count / 2);
 
-    for (int i = 0, j = list.Count - 1; i < list.Count / 2; i++, j--)
+    for (int i = 0; i < list.Count / 2; i++)
     {
-        tempList.Add(list[i] * list[j]);
+        tempList.Add(list[i] * list[list.Count - 1 - i]);
     }
 
     return tempList;
