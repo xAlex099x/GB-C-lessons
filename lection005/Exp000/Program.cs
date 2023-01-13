@@ -32,6 +32,7 @@ void PrintList(List<int> List)
     }
 }
 
+void programsStart(){
 while (true)
 {
     Console.WriteLine("\nРазмер массива должен быть чётным.");
@@ -49,7 +50,7 @@ while (true)
             Console.ResetColor();
             continue;
         }
-        
+
         Console.ForegroundColor = ConsoleColor.Blue;
 
         List<int> startList = FillList(input);
@@ -71,3 +72,6 @@ while (true)
         continue;
     }
 }
+}
+
+programsStart();
