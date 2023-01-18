@@ -24,7 +24,7 @@ void PrintArray(int[,] array)
 
 int? FindElement(int[,] array, int col, int row)
 {
-    if (array.GetLength(0) >= col & array.GetLength(1) >= row)
+    if (array.GetLength(0) >= col && array.GetLength(1) >= row)
     {
         return array[col, row];
     }

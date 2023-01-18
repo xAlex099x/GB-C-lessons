@@ -28,25 +28,6 @@ void PrintArray(int[,] collection)
     }
 }
 
-// void SortArray(int[,] array)
-// {
-//     for (int k = 0; k < array.GetLength(0); k++)
-//     {
-//         int size = array.GetLength(1);
-//         for (int i = 0; i < size - 1; i++)
-//         {
-//             int pos = i;
-//             for (int j = i + 1; j < size; j++)
-//             {
-//                 if (array[k, j] > array[k, pos]) pos = j;
-//             }
-//             int temp = array[k, i];
-//             array[k, i] = array[k, pos];
-//             array[k, pos] = temp;
-//         }
-//     }
-// }
-
 void SortArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
