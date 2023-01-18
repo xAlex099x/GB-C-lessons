@@ -17,9 +17,7 @@
 
 int MinSumLine(int[,] array)
 {
-    int tempSum = 0;
-    int tempMin = 0;
-    int minLine = 0;
+    int tempSum = 0; int tempMin = 0; int minLine = 0;
 
     for (int i = 0; i < array.GetLength(0); i++)
     {
