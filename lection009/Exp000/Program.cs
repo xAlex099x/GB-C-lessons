@@ -1,35 +1,17 @@
-﻿void FillArray(double[,] array)
+﻿int UserInput()
 {
-    for (int i = 0; i < array.GetLength(0); i++)
+    Console.Write("Введите число: ");
+    return Convert.ToInt32(Console.ReadLine());
+}
+void NaturalNumber(int value)
+{
+    if (value >= 1)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            array[i, j] = Math.Round(Random.Shared.NextDouble() * 10 - 3, 2);
-        }
+        Console.Write($"{value}; ");
+        NaturalNumber(value -1);
     }
+
 }
 
-void PrintArray(double[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            Console.Write($"{array[i, j]}; ");
-        }
-        Console.WriteLine("\n");
-    }
-}
-
-
-
-Console.WriteLine("Введите количество строк в массиве: ");
-int column = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите количество столбцов в массиве: ");
-int rows = Convert.ToInt32(Console.ReadLine());
-
-double[,] startArray = new double[column, rows];
-
-FillArray(startArray);
-
-PrintArray(startArray);
+int number = UserInput();
+NaturalNumber(number);
